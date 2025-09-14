@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o João Victor
+
+Atualmente sou estudante de ADS, pela Fatec Mogi Mirim. 
+
+Meu gitHub é mais voltado para os meus projetos de estudos.
 
 <!--
 **JoaoCarnevalliDaSilva/JoaoCarnevalliDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
