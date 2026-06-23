@@ -11,7 +11,7 @@ Atualmente, meu foco principal é o Desenvolvimento Front-end, construindo inter
 * Foco de estudos atual: HTML, CSS, JavaScript, React e aprimoramento de lógica com C e SQL.
 
 ### Como me encontrar
-* [LinkedIn]([link do seu linkedin)](https://www.linkedin.com/in/joao-carnevalli/) 
+* [LinkedIn]: https://www.linkedin.com/in/joao-carnevalli/ 
 * E-mail: joaovictor.carnevalli@gmail.com
 
 <!--
